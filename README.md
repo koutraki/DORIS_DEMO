@@ -1,4 +1,4 @@
-# DORIS_DEMO
+# DORIS DEMO
 
 Graphical interface of <a href="http://github.com/koutraki/oasis">OASIS project<a/>. 
 
